@@ -1,5 +1,5 @@
 {
-  "name": "woocommerce-api",
+  "name": "@niftycreative/woocommerce-api",
   "version": "0.1.0",
   "description": "A supported Node.js library for the WooCommerce REST API",
   "main": "index.js",
